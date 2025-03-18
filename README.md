@@ -1,4 +1,4 @@
-# Criando um Copiloto no Microsoft 365  
+# **Criando um Copiloto no Microsoft 365**
 
 Este desafio é dividido em quatro etapas essenciais:  
 1. **Criar ou conectar uma conta do Microsoft 365**  
@@ -6,7 +6,7 @@ Este desafio é dividido em quatro etapas essenciais:
 3. **Criar um copiloto a partir de uma descrição com IA**  
 4. **Criar um copiloto do zero**  
 
-## 1. Criar ou conectar uma conta do Microsoft 365  
+## 1. Criar ou conectar uma conta do Microsoft 365
 O primeiro passo é acessar [copilotstudio.microsoft.com](https://copilotstudio.microsoft.com).  
 
 - É necessário usar uma conta corporativa ou educacional do **Microsoft 365**.  
@@ -14,7 +14,7 @@ O primeiro passo é acessar [copilotstudio.microsoft.com](https://copilotstudio.
 - Caso não tenha uma conta, você pode criar uma gratuitamente e testar por 30 dias.  
 - Assim que acessar o site, faça login com seu e-mail e senha.  
 
-## 2. Criar um copiloto usando um modelo pronto  
+## 2. Criar um copiloto usando um modelo pronto
 Nesta etapa, você pode criar um copiloto baseado em um modelo existente, como **"Viagens Seguras"**.  
 
 Esse modelo já inclui perguntas frequentes sobre viagens, como:  
